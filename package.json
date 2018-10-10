@@ -1,0 +1,12 @@
+{
+  "name": "4",
+  "version": "0.0.1",
+  "description": "App",
+  "scripts": {
+   "start": "node tcpserver.js"
+   },
+  "dependencies": {
+    "socket.io": "latest"
+  },
+  "author": "Herve Tusse"
+}
