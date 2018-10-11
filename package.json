@@ -3,10 +3,13 @@
   "version": "0.0.1",
   "description": "App",
   "scripts": {
-   "start": "node tcpserver.js"
-   },
+    "start": "node tcpserver.js"
+  },
   "dependencies": {
     "socket.io": "latest"
   },
-  "author": "Herve Tusse"
+  "author": "Herve Tusse",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
 }
